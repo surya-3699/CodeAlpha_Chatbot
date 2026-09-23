@@ -1,0 +1,9 @@
+{
+  "name": "NovaDesk Support Assistant",
+  "short_name": "Nova Support",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030407",
+  "theme_color": "#030407",
+  "description": "A free retrieval-based commercial support chatbot demo."
+}
